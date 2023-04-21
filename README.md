@@ -5,7 +5,7 @@
 + 🤝 我正在寻找热爱开源的小伙伴
 + 📫 我的邮箱 langkejianxinxin@gmail.com
 ### MyStats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiachuanh&show_icons=true&locale=en" alt="jiachuanh" /></p>
+![](https://github-readme-stats.vercel.app/api?username=jiachuanH&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ### MySkill
 
