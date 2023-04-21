@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate Big Data developer from China</h3>
+<h1>Hi 👋, I'm Ryan</h1>
+ 
 
+ [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jiachuanH)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jiachuanhuang)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammaryaser/)
++ ⛄  A passionate Big Data developer from China
 + 🌱 目前正在学习大数据技术和分布式系统
 + 🤝 我正在寻找热爱开源的小伙伴
 + 📫 我的邮箱 langkejianxinxin@gmail.com
@@ -26,8 +30,7 @@
 **Development**
 <p>
 
-​    
-
+![java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
@@ -48,7 +51,6 @@
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![adobexd](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![adobephotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
 </p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jiachuanH/jiachuanH/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
