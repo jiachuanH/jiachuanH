@@ -1,10 +1,12 @@
-<h1>Hi 👋, I'm Ryan</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+Friends;Welcome+to+my+profile)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h3 align="center">A Passionate BigData developer from China</h3>
  
 
  [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jiachuanH)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jiachuanhuang)
 [![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammaryaser/)
-+ ⛄  A passionate Big Data developer from China
+
 + 🌱 目前正在学习大数据技术和分布式系统
 + 🤝 我正在寻找热爱开源的小伙伴
 + 📫 我的邮箱 langkejianxinxin@gmail.com
