@@ -10,6 +10,8 @@
 + 🌱 目前正在学习大数据技术和分布式系统
 + 🤝 我正在寻找热爱开源的小伙伴
 + 📫 我的邮箱 langkejianxinxin@gmail.com
+[![](https://komarev.com/ghpvc/?username=jiachuanH)](https://komarev.com/ghpvc/?username=jiachuanH)
+
 ### MyStats
 ![](https://github-readme-stats.vercel.app/api?username=jiachuanH&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
