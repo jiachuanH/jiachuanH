@@ -59,9 +59,9 @@
 <!-- flume -->
 <a href="https://flume.apache.org/" target="_blank" rel="noreferrer"> <img src="https://flume.apache.org/_static/flume-logo.png" alt="flume" width="40" height="40"/> </a>
 <!-- dolphinscheduler -->
-<a href="https://dolphinscheduler.apache.org/" target="_blank" rel="noreferrer"> <img src="https://dolphinscheduler.apache.org/static/media/logo_black.c9bf9b9c244f60328e1d.webp" alt="dolphinscheduler" width="160" height="40"/> </a>
+<a href="https://dolphinscheduler.apache.org/" target="_blank" rel="noreferrer"> <img src="	https://landscape.cncf.io/logos/dolphin-scheduler.svg" alt="dolphinscheduler" width="50" height="40"/> </a>
 <!-- superset -->
-<a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://superset.apache.org/img/superset-logo-horiz-apache.svg" alt="superset" width="160" height="40"/> </a>
+<a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://superset.apache.org/img/superset-logo-horiz-apache.svg" alt="superset" width="150" height="40"/> </a>
 </p>
 
 **DevOps and Webdev**
