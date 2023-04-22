@@ -15,7 +15,7 @@
 
 ## MyStats
 <br />
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiachuanH&layout=compact&theme=tokyonight&hide_border=true" height="200"/></a>
