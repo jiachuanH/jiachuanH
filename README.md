@@ -23,7 +23,7 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiachuanH&layout=compact&theme=tokyonight&hide_border=true" height="200"/></a>
 </td>
 <td>
-<a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=jiachuanH&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="jiachuanH's github stats" height="200" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=jiachuanH&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="jiachuanH's github stats" height="200" /></a>
 </td>
 </tr>
 </table>
