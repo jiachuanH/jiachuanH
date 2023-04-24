@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+floks;Thanks+for+visiting+my+profile;Have+a+nice+day%F0%9F%A5%B0)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A Passionate BigData developer from China</h3>
- 
+
 
  [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jiachuanH)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jiachuanhuang)
@@ -14,17 +14,20 @@
 [![](https://komarev.com/ghpvc/?username=jiachuanH)](https://komarev.com/ghpvc/?username=jiachuanH)
 
 ## MyStats
+
 <br />
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiachuanH&layout=compact&theme=tokyonight&hide_border=true" height="200"/></a>
 </td>
 <td>
-<a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ekam-Bitt&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Ekam's github stats" height="200" /></a>
+<a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=jiachuanH&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="jiachuanH's github stats" height="200" /></a>
 </td>
 </tr>
 </table>
+
 
 ## MySkill
 
